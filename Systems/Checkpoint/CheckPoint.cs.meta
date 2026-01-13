@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d6b5892da3361ed49a897da1178cc499
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - quest: {instanceID: 0}
+  - restSpace: {instanceID: 0}
+  - artifact: {instanceID: 0}
+  - lightUpArea: {instanceID: 0}
+  - conditionText: {instanceID: 0}
+  - conditionCanvas: {instanceID: 0}
+  - questCamera: {instanceID: 0}
+  - particles: {fileID: 5032845469892543281, guid: 1febed2a2d259a64c8fb55bd0458f6b8, type: 3}
+  - campfireDirectionPrefabs: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
